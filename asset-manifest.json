@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/deployingtest/static/css/main.5f361e03.chunk.css",
-    "main.js": "/deployingtest/static/js/main.7a06bee7.chunk.js",
-    "main.js.map": "/deployingtest/static/js/main.7a06bee7.chunk.js.map",
-    "runtime-main.js": "/deployingtest/static/js/runtime-main.aeab0428.js",
-    "runtime-main.js.map": "/deployingtest/static/js/runtime-main.aeab0428.js.map",
-    "static/js/2.0d893b1d.chunk.js": "/deployingtest/static/js/2.0d893b1d.chunk.js",
-    "static/js/2.0d893b1d.chunk.js.map": "/deployingtest/static/js/2.0d893b1d.chunk.js.map",
-    "index.html": "/deployingtest/index.html",
-    "precache-manifest.6eb45fddfc2bfa238a47e175db36a783.js": "/deployingtest/precache-manifest.6eb45fddfc2bfa238a47e175db36a783.js",
-    "service-worker.js": "/deployingtest/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/deployingtest/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.0d893b1d.chunk.js.LICENSE.txt": "/deployingtest/static/js/2.0d893b1d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/deployingtest/static/media/logo.5d5d9eef.svg"
+    "main.css": "/hostingtest/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hostingtest/static/js/main.cac49539.chunk.js",
+    "main.js.map": "/hostingtest/static/js/main.cac49539.chunk.js.map",
+    "runtime-main.js": "/hostingtest/static/js/runtime-main.4b0801d1.js",
+    "runtime-main.js.map": "/hostingtest/static/js/runtime-main.4b0801d1.js.map",
+    "static/js/2.0d893b1d.chunk.js": "/hostingtest/static/js/2.0d893b1d.chunk.js",
+    "static/js/2.0d893b1d.chunk.js.map": "/hostingtest/static/js/2.0d893b1d.chunk.js.map",
+    "index.html": "/hostingtest/index.html",
+    "precache-manifest.364347be40861cd388616377f7bdfc32.js": "/hostingtest/precache-manifest.364347be40861cd388616377f7bdfc32.js",
+    "service-worker.js": "/hostingtest/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hostingtest/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0d893b1d.chunk.js.LICENSE.txt": "/hostingtest/static/js/2.0d893b1d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hostingtest/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aeab0428.js",
+    "static/js/runtime-main.4b0801d1.js",
     "static/js/2.0d893b1d.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7a06bee7.chunk.js"
+    "static/js/main.cac49539.chunk.js"
   ]
 }
